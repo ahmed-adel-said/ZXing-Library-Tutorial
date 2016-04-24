@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ZXing Example</string>
+    <string name="scan">Scan Now</string>
+    <string name="content">Content :</string>
+    <string name="format">Format :</string>
+</resources>
